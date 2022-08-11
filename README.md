@@ -1,4 +1,4 @@
-# Chinese Checker Game by JAVA  
+# Chinese Checker Game using JAVA  
   <ins>**Heuristic function:**</ins>  
 -  generates all the possible moves with minimax and then calculates the some of their vertical distances.
 The same is then done for the oponent.
