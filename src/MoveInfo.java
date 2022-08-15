@@ -1,5 +1,6 @@
 public class MoveInfo
 {
+    
     public int srow;
     public int scol;
     public int drow;
